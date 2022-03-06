@@ -1,28 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0">
     <channel>
         <title></title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Mar 2022 04:44:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 05:06:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Joplin Pages Publisher</generator>
-        <item>
-            <title><![CDATA[Dev log #2]]></title>
-            <guid>b48a78d2df3b4027b95195c94a4f2c17</guid>
-            <pubDate>Sun, 06 Mar 2022 04:18:05 GMT</pubDate>
-            <content:encoded><![CDATA[<h1 id="test">test</h1>
-<hr />
-<h2 id="test-2">test</h2>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Dev log #1]]></title>
-            <guid>7cd6dcfc02e347a7a9c5172de73f2af7</guid>
-            <pubDate>Sun, 06 Mar 2022 03:58:33 GMT</pubDate>
-            <content:encoded><![CDATA[<h1 id="this-is-a-test">This is a test.</h1>
-<hr />
-]]></content:encoded>
-        </item>
     </channel>
 </rss>

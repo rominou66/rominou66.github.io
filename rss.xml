@@ -4,9 +4,23 @@
         <title></title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Mar 2022 12:49:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 12:53:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Joplin Pages Publisher</generator>
+        <item>
+            <title><![CDATA[LoveJam 2022 "Seismic Aferburner"]]></title>
+            <guid>65d2d8b4e43f48efb5df11665ed894ce</guid>
+            <pubDate>Sun, 06 Mar 2022 12:51:05 GMT</pubDate>
+            <content:encoded><![CDATA[<p><img src="/_resources/db4542fe833f485eae621692b512a055.png" /></p>
+<h1 id="screenshot">Screenshot</h1>
+<hr />
+<h1 id="source-code">Source Code</h1>
+<p>Source available on my GitHub under GPL3 at this address:
+<a title="https://github.com/rominou66/Love-Jam-2022-Seismic-Afterburner" href="https://github.com/rominou66/Love-Jam-2022-Seismic-Afterburner">https://github.com/rominou66/Love-Jam-2022-Seismic-Afterburner</a></p>
+<hr />
+<h5 id="rominou66-20220306-1925">rominou66 2022/03/06 19:25</h5>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[One Lone Coder CodeJam 2021 "Global Temperature Forecast"]]></title>
             <guid>178a96e9311a4bbaafe494ca2535e726</guid>

@@ -1,11 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title></title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Mar 2022 05:06:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 11:55:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Joplin Pages Publisher</generator>
+        <item>
+            <title><![CDATA[One Lone Coder CodeJam 2021 "Global Temperature Forecast"]]></title>
+            <guid>178a96e9311a4bbaafe494ca2535e726</guid>
+            <pubDate>Fri, 03 Sep 2021 11:03:54 GMT</pubDate>
+            <content:encoded><![CDATA[<p><img src="/_resources/5e14955b25ec4442b198dff0d0ad19f0.png" />
+Presenting my first participation to a Code/Game Jam</p>
+<h1 id="screenshot">Screenshot</h1>
+<p><img src="/_resources/869023bdc2894bf7a5104b122bdc837e.png" /></p>
+<hr />
+<h1 id="source-code">Source Code</h1>
+<p>Source available on my GitHub under GPL3 at this address: <a title="https://github.com/rominou66/OLC-CodeJam-2021-Global-Temperature-Forecast" href="https://github.com/rominou66/OLC-CodeJam-2021-Global-Temperature-Forecast">https://github.com/rominou66/OLC-CodeJam-2021-Global-Temperature-Forecast</a></p>
+<hr />
+<h5 id="rominou66-20210703-1917">rominou66 2021/07/03 19:17</h5>
+]]></content:encoded>
+        </item>
     </channel>
 </rss>

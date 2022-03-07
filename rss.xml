@@ -4,7 +4,7 @@
         <title></title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Mar 2022 12:58:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 06:55:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Joplin Pages Publisher</generator>
         <item>
@@ -25,8 +25,20 @@
             <title><![CDATA[One Lone Coder CodeJam 2021 "Global Temperature Forecast"]]></title>
             <guid>178a96e9311a4bbaafe494ca2535e726</guid>
             <pubDate>Fri, 03 Sep 2021 11:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<p><img src="/_resources/5e14955b25ec4442b198dff0d0ad19f0.png" />
-Presenting my first participation to a Code/Game Jam</p>
+            <content:encoded><![CDATA[<p><img src="/_resources/5e14955b25ec4442b198dff0d0ad19f0.png" /></p>
+<h1 id="presenting-my-first-participation-in-a-codegame-jam">Presenting my first participation in a Code/Game Jam</h1>
+<p>The Global Temperature Forecast is an interactive program that displays the earth’s yearly difference in temperature from 1880 to 2077. Of course, future dates are composed of 3 different prediction models.</p>
+<ol>
+<li>The First model is the Current Policies Forecast: Which is the increase if nothing changes in terms of habit from today</li>
+<li>The Second model is the Pledge Policies Forecast: This is what the government agreed on policies to implement to limit the rise of global temperature</li>
+<li>The Last model is Optimistic: This is the model that we as humans have to aim in the hope to minimize climate change.</li>
+</ol>
+<h1 id="technical-details">Technical Details</h1>
+<p>The program was written in Lua using the Love Framework. Love is easy to learn a framework, similar to C++/ SFML.
+If you are a begineer or want to prototype quickly app or games check out love2d: <a title="https://love2d.org/" href="https://love2d.org/">https://love2d.org/</a></p>
+<h1 id="reflection">Reflection</h1>
+<p>As my first published work, this entry is far from perfect. One major issue is the number of draw calls for drawing the graph. Each point is a separate draw call, which is fine on a desktop computer. However, the web build suffers from a slowdown.
+The love builds as a bug that is not present in the binaries.</p>
 <h1 id="screenshot">Screenshot</h1>
 <p><img src="/_resources/869023bdc2894bf7a5104b122bdc837e.png" /></p>
 <hr />

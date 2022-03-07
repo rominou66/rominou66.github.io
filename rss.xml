@@ -4,7 +4,7 @@
         <title></title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 09:50:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 09:54:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Joplin Pages Publisher</generator>
         <item>
@@ -17,7 +17,7 @@
 <hr />
 <h1 id="technical-details">Technical Details</h1>
 <p>As require by the gamejam the game was written in <strong>Lua</strong> using the <strong>Love2d Framework</strong>.
-Check out the amazing framework: <a title="https://love2d.org/" href="https://love2d.org/">https://love2d.org/</a></p>
+Check out the amazing framework: <a href="https://love2d.org/" class="jop-noMdConv">Love2d website</a></p>
 <hr />
 <h1 id="reflection">Reflection</h1>
 <hr />
@@ -48,7 +48,7 @@ Check out the amazing framework: <a title="https://love2d.org/" href="https://lo
 <hr />
 <h1 id="technical-details">Technical Details</h1>
 <p>The program was written in <strong>Lua</strong> using the <strong>Love2d Framework</strong>. Love is easy to learn a framework, similar to C++/ SFML.
-If you are a begineer or want to prototype quickly app or games check out <strong>love2d</strong>: <a title="https://love2d.org/" href="https://love2d.org/">https://love2d.org/</a></p>
+If you are a begineer or want to prototype quickly app or games check out <strong>love2d</strong>: <a href="https://love2d.org/" class="jop-noMdConv">Love2d website</a></p>
 <hr />
 <h1 id="reflection">Reflection</h1>
 <p>As my first published work, this entry is far from perfect. One major issue is the number of draw calls for drawing the graph. Each point is a separate draw call, which is fine on a desktop computer. However, the web build suffers from a slowdown.

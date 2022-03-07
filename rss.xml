@@ -4,7 +4,7 @@
         <title></title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 09:34:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 09:39:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Joplin Pages Publisher</generator>
         <item>
@@ -20,13 +20,14 @@ Check out the amazing framework: <a title="https://love2d.org/" href="https://lo
 <h1 id="reflection">Reflection</h1>
 <h1 id="screenshot">Screenshot</h1>
 <p><img src="/_resources/e6ec16527d84422ba4b4052964d0990c.png" /><img src="/_resources/e1b611d048954aa09eef605dbb141e04.png" /></p>
-<hr />
-<h1 id="source-code">Source Code</h1>
-<p>Source available on my <strong>GitHub</strong> under <strong>GPL3</strong> at this address:
-<a title="https://github.com/rominou66/Love-Jam-2022-Seismic-Afterburner" href="https://github.com/rominou66/Love-Jam-2022-Seismic-Afterburner">https://github.com/rominou66/Love-Jam-2022-Seismic-Afterburner</a></p>
-<hr />
-<h5 id="rominou66-20220306-1925">rominou66 2022/03/06 19:25</h5>
-]]></content:encoded>
+<h1 id="link">Link</h1>
+<a href="https://rominou66.itch.io/love-jam-2022-seismic-afterburner" class="jop-noMdConv">Love Jam 2022 Seismic Afterburner by rominou66</a>
+***
+# Source Code
+Source available on my **GitHub** under **GPL3** at this address: 
+https://github.com/rominou66/Love-Jam-2022-Seismic-Afterburner
+***
+#####  rominou66 2022/03/06 19:25]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[One Lone Coder CodeJam 2021 "Global Temperature Forecast"]]></title>

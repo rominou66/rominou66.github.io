@@ -4,7 +4,7 @@
         <title></title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 07:09:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 09:34:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Joplin Pages Publisher</generator>
         <item>
@@ -22,7 +22,7 @@ Check out the amazing framework: <a title="https://love2d.org/" href="https://lo
 <p><img src="/_resources/e6ec16527d84422ba4b4052964d0990c.png" /><img src="/_resources/e1b611d048954aa09eef605dbb141e04.png" /></p>
 <hr />
 <h1 id="source-code">Source Code</h1>
-<p>Source available on my GitHub under GPL3 at this address:
+<p>Source available on my <strong>GitHub</strong> under <strong>GPL3</strong> at this address:
 <a title="https://github.com/rominou66/Love-Jam-2022-Seismic-Afterburner" href="https://github.com/rominou66/Love-Jam-2022-Seismic-Afterburner">https://github.com/rominou66/Love-Jam-2022-Seismic-Afterburner</a></p>
 <hr />
 <h5 id="rominou66-20220306-1925">rominou66 2022/03/06 19:25</h5>
@@ -34,11 +34,11 @@ Check out the amazing framework: <a title="https://love2d.org/" href="https://lo
             <pubDate>Fri, 03 Sep 2021 11:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<p><img src="/_resources/5e14955b25ec4442b198dff0d0ad19f0.png" /></p>
 <h1 id="presenting-my-first-participation-in-a-codegame-jam">Presenting my first participation in a Code/Game Jam</h1>
-<p>The <strong>Global Temperature Forecast</strong> is an interactive program that displays the earth’s yearly difference in temperature from 1880 to 2077. Of course, future dates are composed of 3 different prediction models.</p>
+<p>The <strong>Global Temperature Forecast</strong> is an interactive program that displays the earth’s yearly difference in temperature from <strong>1880</strong> to <strong>2077</strong>. Of course, future dates are composed of 3 different prediction models.</p>
 <ol>
-<li>The First model is the Current Policies Forecast: Which is the increase if nothing changes in terms of habit from today</li>
-<li>The Second model is the Pledge Policies Forecast: This is what the government agreed on policies to implement to limit the rise of global temperature</li>
-<li>The Last model is Optimistic: This is the model that we as humans have to aim in the hope to minimize climate change.</li>
+<li>The First model is the <strong>Current Policies Forecast</strong>: Which is the increase if nothing changes in terms of habit from today</li>
+<li>The Second model is the <strong>Pledge Policies Forecast</strong>: This is what the government agreed on policies to implement to limit the rise of global temperature</li>
+<li>The Last model is <strong>Optimistic Forecast</strong>: This is the model that we as humans have to aim in the hope to minimize climate change.</li>
 </ol>
 <h1 id="technical-details">Technical Details</h1>
 <p>The program was written in <strong>Lua</strong> using the <strong>Love2d Framework</strong>. Love is easy to learn a framework, similar to C++/ SFML.
@@ -50,7 +50,7 @@ The love builds as a bug that is not present in the binaries.</p>
 <p><img src="/_resources/869023bdc2894bf7a5104b122bdc837e.png" /></p>
 <hr />
 <h1 id="source-code">Source Code</h1>
-<p>Source available on my GitHub under GPL3 at this address: <a title="https://github.com/rominou66/OLC-CodeJam-2021-Global-Temperature-Forecast" href="https://github.com/rominou66/OLC-CodeJam-2021-Global-Temperature-Forecast">https://github.com/rominou66/OLC-CodeJam-2021-Global-Temperature-Forecast</a></p>
+<p>Source available on my <strong>GitHub</strong> under <strong>GPL3</strong> at this address: <a title="https://github.com/rominou66/OLC-CodeJam-2021-Global-Temperature-Forecast" href="https://github.com/rominou66/OLC-CodeJam-2021-Global-Temperature-Forecast">https://github.com/rominou66/OLC-CodeJam-2021-Global-Temperature-Forecast</a></p>
 <hr />
 <h5 id="rominou66-20210903-1917">rominou66 2021/09/03 19:17</h5>
 ]]></content:encoded>
